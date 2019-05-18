@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmes>
+	<programme id="2"> 
+		<name>School of Rock</name> 
+		<image>images/films/School of Rock.jpg</image> 
+		<mood>Happy</mood> 
+	</programme> 
+	<programme id="11"> 
+		<name>Home Alone</name> 
+		<image>images/films/Home Alone.jpg</image> 
+		<mood>Happy</mood> 
+	</programme> 
+</programmes>

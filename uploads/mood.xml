@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmes>
+	<programme id="1"> 
+		<name>Insidious</name> 
+		<image>images/films/Insidious.jpg</image> 
+		<mood>Scared</mood> 
+	</programme> 
+	<programme id="2"> 
+		<name>School of Rock</name> 
+		<image>images/films/School of Rock.jpg</image> 
+		<mood>Happy</mood> 
+	</programme> 
+	<programme id="3"> 
+		<name>First Blood</name> 
+		<image>images/films/First Blood.jpg</image> 
+		<mood>Wideawake</mood> 
+	</programme> 
+	<programme id="4"> 
+		<name>The Shining</name> 
+		<image>images/films/The Shining.jpg</image> 
+		<mood>Fearless</mood> 
+	</programme> 
+	<programme id="5"> 
+		<name>Romeo and Juliet</name> 
+		<image>images/films/Romeo and Juliet.jpg</image> 
+		<mood>Sad</mood> 
+	</programme> 
+	<programme id="6"> 
+		<name>Twilight</name> 
+		<image>images/films/Twilight.jpg</image> 
+		<mood>Tired</mood> 
+	</programme> 
+	<programme id="7"> 
+		<name>Fight Club</name> 
+		<image>images/films/Fight Club.jpg</image> 
+		<mood>Agitated</mood> 
+	</programme> 
+	<programme id="8"> 
+		<name>The Intern</name> 
+		<image>images/films/The Intern.jpg</image> 
+		<mood>Calm</mood> 
+	</programme> 
+	<programme id="9"> 
+		<name>Hatchi: A Dog's Tale</name> 
+		<image>images/films/Hachi A Dogs Tale.jpg</image> 
+		<mood>Sad</mood> 
+	</programme>
+	<programme id="10"> 
+		<name>Love Actually</name> 
+		<image>images/films/Love Actually.jpg</image> 
+		<mood>Calm</mood> 
+	</programme> 
+	<programme id="11"> 
+		<name>Home Alone</name> 
+		<image>images/films/Home Alone.jpg</image> 
+		<mood>Happy</mood> 
+	</programme> 
+</programmes>
